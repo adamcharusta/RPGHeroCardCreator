@@ -1,0 +1,8 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>RPGHeroCardCreator.API.Services.AuthService.Application</RootNamespace>
+    <AssemblyName>RPGHeroCardCreator.API.Services.AuthService.Application</AssemblyName>
+  </PropertyGroup>
+
+</Project>

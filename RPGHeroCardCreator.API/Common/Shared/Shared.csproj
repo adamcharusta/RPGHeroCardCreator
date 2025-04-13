@@ -1,0 +1,8 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>RPGHeroCardCreator.API.Common.Shared</RootNamespace>
+    <AssemblyName>RPGHeroCardCreator.API.Common.Shared</AssemblyName>
+  </PropertyGroup>
+
+</Project>
